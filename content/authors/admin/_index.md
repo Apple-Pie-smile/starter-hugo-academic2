@@ -36,4 +36,4 @@ highlight_name: true
 ---
 Norah(李开元)is a first-year MEng student in department of Electrical and Computer Engineering at Duke University and will graduate in May 2023. Norah’s interests include Software Development and data science.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Kaiyuan_s_resume_p.pdf" "newtab" >}}resumé{{< /staticref >}}.
