@@ -2,8 +2,7 @@
 title: Kaiyuan(Norah) Li
 role: M.Eng Student @ Duke University
 avatar_filename: me.jpeg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Software Development
   - Data Science
