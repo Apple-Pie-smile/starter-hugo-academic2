@@ -26,7 +26,7 @@ experience:
     company: StartInvest
     company_url: ''
     company_logo: org-gc
-    location: California
+    location: California(remote)
     date_start: '2022-05-16'
     date_end: ''
     description: |2-

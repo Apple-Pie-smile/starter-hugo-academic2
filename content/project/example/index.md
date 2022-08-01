@@ -2,7 +2,9 @@
 title: Stock Matching with Scalibility
 summary: Designed and implemented a stock matching machine to match buy and sell orders, use socket to receive information and parse xml, interact with PostgreSQL database, and return xml success/failure information.
 tags:
-  - C++,PostgreSQL,XML
+  - C++
+  - PostgreSQL
+  - XML
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

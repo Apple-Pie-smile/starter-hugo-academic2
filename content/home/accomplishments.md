@@ -29,15 +29,15 @@ item:
     description: 'Build machine learning models in Python using popular machine learning libraries NumPy and scikit-learn. Build and train supervised machine learning models for prediction and binary classification tasks, including linear regression and logistic regression'
     organization: Coursera
     organization_url: https://www.coursera.org/learn/machine-learning
-    title: Machine Learning
-    url: ''
+    title: Supervised Machine Learning Regression and Classification
+    url: 'https://www.coursera.org/learn/machine-learning'
   #- certificate_url: https://www.edx.org
   #  date_end: ''
   #  date_start: '2021-01-01'
   #  description: Formulated informed blockchain models, hypotheses, and use cases.
-  #  organization: edX
+  #  organization: Coursera
   #  organization_url: https://www.edx.org
-  #  title: Blockchain Fundamentals
+  #  title: Introductory C Programming
   #  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   #- certificate_url: https://www.datacamp.com
   #  date_end: '2020-12-21'
