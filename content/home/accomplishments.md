@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org/learn/machine-learning
+  - #certificate_url: https://www.coursera.org/learn/machine-learning
     date_end: '2021-01-24'
     date_start: '2020-11-05'
     description: 'Build machine learning models in Python using popular machine learning libraries NumPy and scikit-learn. Build and train supervised machine learning models for prediction and binary classification tasks, including linear regression and logistic regression'
