@@ -25,13 +25,13 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: kl406@duke.edu
+  phone: 984 259 8342
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
+    street: 2616 Erwin Rd
+    city: Durham
+    region: NC
+    postcode: '27705'
     country: United States
     country_code: US
   coordinates:
