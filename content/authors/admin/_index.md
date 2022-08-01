@@ -1,7 +1,7 @@
 ---
 title: Kaiyuan(Norah) Li
 role: M.Eng Student @ Duke University
-avatar_filename: me.jpeg
+avatar_filename: me.jpg
 bio: ""
 interests:
   - Software Development
