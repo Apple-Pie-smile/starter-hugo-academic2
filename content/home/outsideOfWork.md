@@ -5,7 +5,7 @@ headless: true
 # ... Put Your Section Options Here (title etc.) ...
 title: Outside of Work
 subtitle: 
-weight: 125  # section position on page
+weight: 126  # section position on page
 
 content:
     page_type: blank
