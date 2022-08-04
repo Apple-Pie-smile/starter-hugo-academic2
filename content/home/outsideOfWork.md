@@ -11,7 +11,7 @@ design:
   columns: "2"
 ---
 
-👈This is my cat Mochi!
+👈This is my cat Mochi.
 She's so sweet!
 
 👉Skydive in keywest
