@@ -12,7 +12,7 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/NorahLi8
   - icon: github
     icon_pack: fab
     link: https://github.com/Apple-Pie-smile
