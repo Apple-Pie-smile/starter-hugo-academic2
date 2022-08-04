@@ -15,7 +15,7 @@ main:
     weight: 20
   - name: Accomplishments
     url: '#accomplishments'
-    weight: 25
+    weight: 24
   - name: Projects
     url: '#projects'
     weight: 30
