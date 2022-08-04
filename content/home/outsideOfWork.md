@@ -2,7 +2,7 @@
 widget: blank
 widget_id: blank
 headless: true
-weight: 126
+weight: 125
 title: Outside of Work
 subtitle: null
 content:
