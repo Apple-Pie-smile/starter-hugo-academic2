@@ -1,6 +1,6 @@
 ---
-title: ⛷
-summary: skating in winter!
+title: accompany my cat
+summary: Her name is Mochi. She's so cute!
 #tags:
 #  - C++
 #  - PostgreSQL
