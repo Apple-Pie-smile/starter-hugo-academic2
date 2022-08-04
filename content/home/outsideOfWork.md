@@ -11,9 +11,8 @@ design:
   columns: "2"
 ---
 
-
-Accompany my cat Mochi
-
+👈This is my cat Mochi!
 She's so sweet!
 
+👉Skydive in keywest
 {{< gallery album="mygallery" resize_options="250x250" >}}
