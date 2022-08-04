@@ -15,4 +15,4 @@ design:
 She's so sweet!
 
 👉Skydive in keywest
-{{< gallery album="mygallery" resize_options="500x500" >}}
+{{< gallery album="mygallery" resize_options="1000x1000" >}}
