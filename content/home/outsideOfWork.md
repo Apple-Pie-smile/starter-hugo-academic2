@@ -2,7 +2,7 @@
 widget: blank
 widget_id: blank
 headless: true
-weight: 126
+weight: 125
 title: Outside of Work
 subtitle: null
 content:
@@ -16,4 +16,4 @@ Accompany my cat Mochi
 
 She's so sweet!
 
-{{< figure src="mochi.jpg" caption="Mochi" numbered="true" resize_options = "250x250">}}
+{{< figure src="mochi.jpg" caption="Mochi" numbered="true" resize_options = "250x250" >}}
