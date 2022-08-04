@@ -12,8 +12,6 @@ design:
 ---
 
 
-
-
 accompany my cat Mochi.
 
 She's so sweet!
