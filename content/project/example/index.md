@@ -29,7 +29,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 ---
 Stock Matching with Scalibility| C++,PostgreSQL, XML, socket, multithread, concurrency
 •	Designed and implemented a stock matching machine to match buy and sell orders, use socket to receive information and parse xml, interact with PostgreSQL database, and return xml success/failure information
