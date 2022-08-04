@@ -2,7 +2,7 @@
 widget: blank
 widget_id: blank
 headless: true
-weight: 125
+weight: 126
 title: Outside of Work
 subtitle: null
 content:
@@ -15,4 +15,4 @@ design:
 She's so sweet!
 
 👉Skydive in keywest
-{{< gallery album="mygallery" resize_options="1000x1000" >}}
+{{< gallery album="mygallery" resize_options="1300x1300" >}}
