@@ -13,10 +13,11 @@ content:
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
+  #Add any content here - text, images, videos, galleries - and even HTML code!
 ---
 
-Add any content here - text, images, videos, galleries - and even HTML code!
 
 
-⛷
-accompany my cat mochi
+
+
+
