@@ -1,6 +1,6 @@
 ---
-title: ⛷
-summary: skating in winter!
+title: cook/bake
+summary: life with flavor
 #tags:
 #  - C++
 #  - PostgreSQL
