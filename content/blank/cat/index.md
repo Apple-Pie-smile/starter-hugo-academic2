@@ -31,7 +31,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-{{< figure src="featured.jpg" id="wowchemy" >}}
+
 
 
 
