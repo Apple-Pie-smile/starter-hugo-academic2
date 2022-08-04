@@ -29,6 +29,10 @@ content:
       tag: '*'
     - name: C++
       tag: C++
+    - name: Python
+      tag: Python
+    - name: Java
+      tag: Java
     - name: Other
       tag: Demo
 
