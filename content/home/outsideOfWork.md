@@ -12,8 +12,8 @@ design:
 ---
 
 
-accompany my cat Mochi.
+Accompany my cat Mochi
 
 She's so sweet!
 
-![](mochi.jpg "My cat Mochi")
+![](mochi.jpg)
