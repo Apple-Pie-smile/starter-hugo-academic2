@@ -16,7 +16,5 @@ Accompany my cat Mochi
 
 She's so sweet!
 
-![](mochi.jpg)
-
 {{ $image := resources.Get "media/mochi.jpg" }}
 {{ $image := $image.Resize "600x400" }}
