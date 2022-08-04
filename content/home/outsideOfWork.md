@@ -16,4 +16,4 @@ Accompany my cat Mochi
 
 She's so sweet!
 
-{{< figure src="mochi.jpg" caption="A? caption" numbered="true" >}}
+{{< figure src="mochi.jpg" caption="Mochi" numbered="true" width="400x" height = "x600">}}
