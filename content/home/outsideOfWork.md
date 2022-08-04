@@ -16,4 +16,4 @@ Accompany my cat Mochi
 
 She's so sweet!
 
-![]{mochi.jpg}
+{{< gallery album="mygallery" resize_options="250x250" >}}
