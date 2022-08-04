@@ -1,23 +1,21 @@
 ---
 widget: blank
+widget_id: blank
 headless: true
-
-# ... Put Your Section Options Here (title etc.) ...
+weight: 125
 title: Outside of Work
-subtitle: 
-weight: 125  # section position on page
-
+subtitle: null
 content:
-    page_type: blank
-
+  page_type: blank
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '2'
-  #Add any content here - text, images, videos, galleries - and even HTML code!
+  columns: "2"
 ---
 
 
 
 
+accompany my cat Mochi.
 
+She's so sweet!
 
+![](mochi.jpg "My cat Mochi")
