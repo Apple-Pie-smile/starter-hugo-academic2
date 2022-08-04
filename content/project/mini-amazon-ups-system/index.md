@@ -1,9 +1,9 @@
 ---
 title: Mini Amazon/UPS System
 date: 2022-08-04T16:19:51.955Z
-summary: "*Developed a full-stack web application modeling UPS system paired
-  with amazon ordering and delivery system in Django. Simulated the whole
-  process from buying products to getting the package delivered.*"
+summary: Developed a full-stack web application modeling UPS system paired with
+  amazon ordering and delivery system in Django. Simulated the whole process
+  from buying products to getting the package delivered.
 draft: false
 featured: false
 tags:
