@@ -16,5 +16,4 @@ Accompany my cat Mochi
 
 She's so sweet!
 
-{{ $image := resources.Get "media/mochi.jpg" }}
-{{ $image := $image.Resize "600x400" }}
+{{< figure src="mochi.jpg" caption="A caption" numbered="true" >}}
