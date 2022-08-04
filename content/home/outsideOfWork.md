@@ -4,7 +4,7 @@ headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
 title: My New Section
-subtitle: what
+subtitle: 
 weight: 125  # section position on page
 
 content:
