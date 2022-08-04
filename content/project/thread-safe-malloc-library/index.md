@@ -1,7 +1,7 @@
 ---
 title: Thread-safe Malloc Library
 date: 2022-08-04T16:19:12.378Z
-summary: • Implemented malloc library in C based on First Fit and Best Fit
+summary: Implemented malloc library in C based on First Fit and Best Fit
   strategies, which features merging/splitting adjacent free regions
 draft: false
 featured: false
