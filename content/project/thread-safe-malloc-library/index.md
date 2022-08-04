@@ -5,17 +5,16 @@ summary: "*• Implemented malloc library in C based on First Fit and Best Fit
   strategies, which features merging/splitting adjacent free regions*"
 draft: false
 featured: false
+tags:
+  - C
+  - multi-threading
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
-*• Implemented malloc library in C based on First Fit and Best Fit strategies, which features merging/splitting*
+• Implemented malloc library in C based on First Fit and Best Fit strategies, which features merging/splitting adjacent free regions
 
-*adjacent free regions*
+• Enabled thread-safe with the implementation of lock and lock-free versions using mutex synch strategy and thread-local storage to prevent race conditions
 
-*• Enabled thread-safe with the implementation of lock and lock-free versions using mutex synch strategy and*
-
-*thread-local storage to prevent race conditions*
-
-*• Handle 1 billion memory allocation and deallocation within 60 seconds in both First Fit and Best Fit strategies*
+• Handle 1 billion memory allocation and deallocation within 60 seconds in both First Fit and Best Fit strategies
