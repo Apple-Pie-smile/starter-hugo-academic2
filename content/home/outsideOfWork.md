@@ -15,9 +15,7 @@ design:
   columns: '2'
   #Add any content here - text, images, videos, galleries - and even HTML code!
 ---
-
-skating in winter!
-accompany my cat mochi 
+<img src="featured.jpg" alt="Pulpit rock" width="304" height="228">
 
 
 
